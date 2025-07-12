@@ -10,8 +10,6 @@ Transactions dataset: 30 million purchase records showing online and in-store pu
 
 Key Objectives & Methodologies:
 
-EDA & Insights:
-
 Identified popular product categories (e.g., dresses, trousers).
 Analyzed sales trends, demographics, and purchase behavior.
 Found that ~70% of sales occurred online, suggesting a focus on digital channels.
