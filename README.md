@@ -8,7 +8,7 @@ Articles dataset: Information on over 100,000 products.
 Customers dataset: Demographic and behavioral data on over 1.3 million customers.
 Transactions dataset: 30 million purchase records showing online and in-store purchases.
 
-Key Objectives & Methodologies:
+EDA & Insights:
 
 Identified popular product categories (e.g., dresses, trousers).
 Analyzed sales trends, demographics, and purchase behavior.
