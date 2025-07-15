@@ -1,4 +1,4 @@
-Overview : (Refer to the full report for more details [Report](Final_Report_5230_Farhan_Tannishtha.pdf)
+Overview : (Refer to the full report for more details [Report](Final_Report_5230_Farhan_Tannishtha.pdf))
 
 This project aimed to perform exploratory data analysis (EDA), customer segmentation, and build a robust product recommendation system for H&M using publicly available data from Kaggle.
 
